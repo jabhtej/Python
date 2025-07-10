@@ -65,5 +65,5 @@ n=4
 for row in range(1,m+1):
     for col in range(1,n+1):
         print(f'{row}*{col}={row*col}')
-    print('_'*15)
+    print('_'*10)
 
